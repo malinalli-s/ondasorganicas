@@ -129,7 +129,7 @@ function draw(timestamp) {
 
     // Relleno de color
     ctx.fillStyle = color;
-    ctx.globalAlpha = 0.78;
+    ctx.globalAlpha = 1;
     ctx.fill();
 
     // Contorno
